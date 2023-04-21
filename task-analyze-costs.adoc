@@ -21,7 +21,7 @@ Nach der Anbindung Ihres Accounts können Sie Ihre Cloud-Computing-Kosten analys
 == Kostenanalyse anzeigen
 
 .Schritte
-. Klicken Sie Auf *Computing*.
+. Klicken Sie auf *Erweiterungen > Cloud-OPS*.
 . Die Kostenanalyse bietet Einblick in Ihre Computing-Kosten.
 
 

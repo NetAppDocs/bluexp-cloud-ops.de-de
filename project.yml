@@ -1,6 +1,6 @@
 ---
 settings:
-  name: Compute
+  name: BlueXP cloud ops
   platform: cloud
   internal:
     pdf_enabled: true
@@ -11,13 +11,13 @@ settings:
   langs: de-de,us-en,ja-jp,ko-kr,zh-cn,zh-tw,es-es,fr-fr
 sidebar:
   entries:
-  - title: Datenverarbeitung
+  - title: BlueXP Cloud-Ops-Dokumente
     url: "/index.html"
   - title: Versionshinweise
     url: "/whats-new.html"
   - title: Los geht's
     entries:
-    - title: Weitere Informationen zum Computing-Service
+    - title: Mehr zu BlueXP Cloud Ops
       url: "/concept-compute.html"
     - title: Verbinden Sie Ihr AWS Konto
       url: "/task-getting-started-compute.html"
@@ -35,11 +35,11 @@ homepage:
   tiles:
   - title: Los geht's
     links:
-    - title: Weitere Informationen zum Computing-Service
+    - title: Mehr zu BlueXP Cloud Ops
       url: concept-compute.html
     - title: Verbinden Sie Ihr AWS Konto
       url: task-getting-started-compute.html
-  - title: Nutzung des Computing-Service
+  - title: Einsatz von BlueXP Cloud-Ops
     links:
     - title: Analysieren Sie Ihre Computing-Kosten
       url: task-analyze-costs.html

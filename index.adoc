@@ -2,10 +2,10 @@
 layout: astra 
 sidebar: sidebar 
 permalink: index.html 
-lead: 'View a cost analysis of your cloud compute spending and identify potential savings right from BlueXP (formerly Cloud Manager).' 
-summary: 'Sehen Sie sich eine Kostenanalyse für Ihre Cloud-Computing-Ausgaben an und ermitteln Sie direkt potenzielle Einsparungen von BlueXP (früher Cloud Manager).' 
+lead: View a cost analysis of your cloud compute spending and identify potential savings right from BlueXP. 
+summary: Eine Kostenanalyse zu Ihren Cloud-Compute-Ausgaben zeigt, welche potenziellen Einsparungen sich direkt mit BlueXP ergeben. 
 ---
-= Computing-Dokumentation
+= BlueXP Cloud Ops – Dokumentation
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 

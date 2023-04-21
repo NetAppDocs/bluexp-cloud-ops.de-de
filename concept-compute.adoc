@@ -4,7 +4,7 @@ permalink: concept-compute.html
 keywords: concepts, how cloud analyzer works, compute, compute costs, compute savings 
 summary: Durch die Nutzung des Cloud Analyzer-Service von Spot kann BlueXP eine grundlegende Kostenanalyse Ihrer Cloud-Computing-Ausgaben erstellen und potenzielle Einsparungen identifizieren. 
 ---
-= Weitere Informationen zum Computing-Service
+= Mehr zu BlueXP Cloud Ops
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -16,7 +16,7 @@ summary: Durch die Nutzung des Cloud Analyzer-Service von Spot kann BlueXP eine 
 [role="lead"]
 Durch den Einsatz https://spot.io/products/cloud-analyzer/["Spot Cloud Analyzer Service"^]BlueXP bietet eine allgemeine Kostenanalyse Ihrer Cloud-Computing-Ausgaben und zeigt potenzielle Einsparungen auf.
 
-Cloud Analyzer ist eine Cloud-Infrastrukturmanagement-Lösung mit erweiterten Analysefunktionen, die Transparenz und Einblicke in Ihre Cloud-Kosten ermöglicht. Es zeigt Ihnen, wo Sie diese Kosten optimieren können und lässt Sie diese Optimierung mit Spot-Portfolio von kontinuierlichen Optimierungsprodukten in nur wenigen Klicks implementieren.
+Cloud Analyzer ist eine Cloud-Infrastrukturmanagement-Lösung mit erweiterten Analysefunktionen, die Transparenz und Einblicke in Ihre Cloud-Kosten ermöglicht. Sie zeigt, wo sich diese Kosten optimieren lassen, und ermöglicht es Ihnen, diese Optimierung mit dem Spot Portfolio an Produkten für kontinuierliche Optimierung mit nur wenigen Klicks zu implementieren.
 
 
 
@@ -45,7 +45,7 @@ Die Verwendung dieses Services ist kostenlos über BlueXP.
 
 Die Cloud Analyzer-Integration in BlueXP funktioniert auf hohem Niveau wie folgt:
 
-. Sie klicken auf *berechnen* und verbinden Ihr AWS-Management-Konto.
+. Sie klicken auf *Erweiterungen > Cloud-OPS* und verbinden Ihr AWS-Management-Konto.
 . NetApp konfiguriert Ihre Umgebung wie folgt:
 +
 .. Aufbau einer Organisation in der Spot-Plattform
@@ -56,7 +56,7 @@ Sie können sich mit denselben Single-Sign-On-Anmeldeinformationen beim Spot-Die
 .. Cloud Analyzer beginnt mit der Verarbeitung Ihrer AWS Kontodaten.
 
 
-. In BlueXP wird die Seite „Computing“ aktualisiert. Anhand der Informationen erhalten Sie Einblicke in vergangene, aktuelle und zukünftige Cloud-Kosten.
+. In BlueXP wird die Cloud-Ops-Seite aktualisiert. Zudem nutzen Sie die Informationen, um Einblicke in vergangene, aktuelle und zukünftige Cloud-Kosten zu erhalten.
 . Klicken Sie jederzeit auf *vollständige Analyse*, um zu Spot's Cloud Analyzer zu gelangen, das eine vollständige Analyse Ihrer Cloud-Ausgaben und Einsparungsmöglichkeiten ermöglicht.
 
 
