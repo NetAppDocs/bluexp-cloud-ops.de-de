@@ -45,7 +45,7 @@ Sie können folgende Maßnahmen ergreifen, um Ihre Konten weiter zu optimieren:
 Top AWS Accounts:: Dies ist ein Balkendiagramm mit den zehn wichtigsten Konten nach Kosten. Die Grafik basiert auf den letzten 30 Tagen der Ausgabenaktivität.
 
 
-https://help.spot.io/cloud-analyzer/cost-analysis/["Erfahren Sie mehr über die Seite „Kostenanalyse“ im Spot Cloud Analyzer"^].
+https://docs.spot.io/cloud-analyzer/cost-analysis["Erfahren Sie mehr über die Seite „Kostenanalyse“ im Spot Cloud Analyzer"^].
 
 
 
@@ -60,5 +60,5 @@ Das folgende Beispiel zeigt Cloud Analyzer auf:
 image:screenshot_compute_dashboard_spot.gif["Ein Screenshot, der die Seite „Kostenanalyse“ in Spot's Cloud Analyzer anzeigt."]
 
 * https://spot.io/products/cloud-analyzer/["Auf der Produktseite für Cloud Analyzer erfahren Sie mehr über die Möglichkeiten dieser Technologie"^]
-* https://help.spot.io/cloud-analyzer/["Hilfe zur Verwendung von Cloud Analyzer erhalten Sie in der Dokumentation zu Spot"^]
+* https://docs.spot.io/cloud-analyzer/["Hilfe zur Verwendung von Cloud Analyzer erhalten Sie in der Dokumentation zu Spot"^]
 

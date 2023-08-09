@@ -26,7 +26,7 @@ Nutzen Sie Cloud Analyzer für die AWS Abrechnung für Kostenträger und optimie
 .. Führen Sie die CloudFormation-Vorlage aus.
 .. Fügen Sie die SonderrollenARN ein.
 +
-https://help.spot.io/cloud-analyzer/connect-your-aws-account-2/["Zeigen Sie weitere Details zu diesen Schritten an"^].
+https://docs.spot.io/connect-your-cloud-provider/first-account/?id=connect-aws["Zeigen Sie weitere Details zu diesen Schritten an"^].
 
 +
 image:screenshot_compute_add_account.gif["Ein Screenshot, der jedes auf der Verbindungsseite verfügbare Feld anzeigt."]
