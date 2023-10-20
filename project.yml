@@ -14,7 +14,9 @@ sidebar:
   - title: BlueXP Cloud-Ops-Dokumente
     url: "/index.html"
   - title: Versionshinweise
-    url: "/whats-new.html"
+    entries:
+    - title: Was ist neu
+      url: "/whats-new.html"
   - title: Los geht's
     entries:
     - title: Mehr zu BlueXP Cloud Ops

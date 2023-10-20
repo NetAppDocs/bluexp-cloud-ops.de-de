@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-analyze-costs.html 
 keywords: analyze costs, compute costs, projected costs, savings, cloud analyzer 
-summary: Nach der Anbindung Ihres Accounts können Sie Ihre Cloud-Computing-Kosten analysieren und so frühere, aktuelle und zukünftige Cloud-Kosten analysieren. 
+summary: Nachdem Sie Ihr Konto verbunden haben, können Sie eine Kostenanalyse direkt in BlueXP anzeigen und auf einen Link klicken, um eine umfassende Analyse von Cloud Analyzer zu erhalten. 
 ---
 = Analysieren Sie Ihre Computing-Kosten
 :hardbreaks:
@@ -14,11 +14,13 @@ summary: Nach der Anbindung Ihres Accounts können Sie Ihre Cloud-Computing-Kost
 
 
 [role="lead"]
-Nach der Anbindung Ihres Accounts können Sie Ihre Cloud-Computing-Kosten analysieren und so frühere, aktuelle und zukünftige Cloud-Kosten analysieren.
+Nachdem Sie Ihr Konto verbunden haben, können Sie eine Kostenanalyse direkt in BlueXP anzeigen und auf einen Link klicken, um eine umfassende Analyse von Cloud Analyzer zu erhalten.
 
 
 
 == Kostenanalyse anzeigen
+
+Eine Analyse Ihrer Cloud-Computing-Kosten gibt Einblick in vergangene, aktuelle und zukünftige Cloud-Kosten.
 
 .Schritte
 . Klicken Sie auf *Erweiterungen > Cloud-OPS*.
